@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/portuDAO?style=social)](https://github.com/portuDAO/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/portudao?style=social)](https://twtter.com/portuDAO)
+[![Twitter Follow](https://img.shields.io/twitter/follow/portudao?style=social)](https://twitter.com/portuDAO)
 [![Telegram](https://img.shields.io/static/v1?label=discussion&message=telegram&color=blue)](https://t.me/portuDAO)
 ![GitHub last commit](https://img.shields.io/github/last-commit/portuDAO/manual-de-marca)
 [![GitHub license](https://img.shields.io/github/license/portuDAO/manual-de-marca)](https://github.com/portuDAO/manual-de-marca/blob/main/LICENSE)
